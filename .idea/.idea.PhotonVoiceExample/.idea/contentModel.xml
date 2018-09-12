@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="External" t="Include">
+          <e p="Photon Unity Networking" t="Include">
+            <e p="changelog.txt" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="PhotonNetwork" t="Include">
+                <e p="AccountService.cs" t="Include" />
+                <e p="CullAreaEditor.cs" t="Include" />
+                <e p="PhotonConverter.cs" t="Include" />
+                <e p="PhotonEditor.cs" t="Include" />
+                <e p="PhotonEditorUtils.cs" t="Include" />
+                <e p="PhotonGUI.cs" t="Include" />
+                <e p="PhotonViewHandler.cs" t="Include" />
+                <e p="PhotonViewInspector.cs" t="Include" />
+                <e p="PunSceneSettings.cs" t="Include" />
+                <e p="ReorderableListResources.cs" t="Include" />
+                <e p="ServerSettingsInspector.cs" t="Include" />
+                <e p="Views" t="Include">
+                  <e p="PhotonAnimatorViewEditor.cs" t="Include" />
+                  <e p="PhotonRigidbody2DViewEditor.cs" t="Include" />
+                  <e p="PhotonRigidbodyViewEditor.cs" t="Include" />
+                  <e p="PhotonTransformViewEditor.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="link.xml" t="Include" />
+            <e p="Plugins" t="Include">
+              <e p="PhotonNetwork" t="Include">
+                <e p="CustomTypes.cs" t="Include" />
+                <e p="Enums.cs" t="Include" />
+                <e p="Extensions.cs" t="Include" />
+                <e p="FriendInfo.cs" t="Include" />
+                <e p="GizmoType.cs" t="Include" />
+                <e p="LoadbalancingPeer.cs" t="Include" />
+                <e p="NetworkingPeer.cs" t="Include" />
+                <e p="PhotonClasses.cs" t="Include" />
+                <e p="PhotonHandler.cs" t="Include" />
+                <e p="PhotonLagSimulationGui.cs" t="Include" />
+                <e p="PhotonNetwork.cs" t="Include" />
+                <e p="PhotonPlayer.cs" t="Include" />
+                <e p="PhotonStatsGui.cs" t="Include" />
+                <e p="PhotonStreamQueue.cs" t="Include" />
+                <e p="PhotonView.cs" t="Include" />
+                <e p="PingCloudRegions.cs" t="Include" />
+                <e p="Room.cs" t="Include" />
+                <e p="RoomInfo.cs" t="Include" />
+                <e p="RPC.cs" t="Include" />
+                <e p="ServerSettings.cs" t="Include" />
+                <e p="SocketUdp.cs" t="Include" />
+                <e p="SocketWebTcp.cs" t="Include" />
+                <e p="Views" t="Include">
+                  <e p="PhotonAnimatorView.cs" t="Include" />
+                  <e p="PhotonRigidbody2DView.cs" t="Include" />
+                  <e p="PhotonRigidbodyView.cs" t="Include" />
+                  <e p="PhotonTransformView.cs" t="Include" />
+                  <e p="PhotonTransformViewPositionControl.cs" t="Include" />
+                  <e p="PhotonTransformViewPositionModel.cs" t="Include" />
+                  <e p="PhotonTransformViewRotationControl.cs" t="Include" />
+                  <e p="PhotonTransformViewRotationModel.cs" t="Include" />
+                  <e p="PhotonTransformViewScaleControl.cs" t="Include" />
+                  <e p="PhotonTransformViewScaleModel.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="readme.txt" t="Include" />
+            <e p="UtilityScripts" t="Include">
+              <e p="ConnectAndJoinRandom.cs" t="Include" />
+              <e p="CullArea.cs" t="Include" />
+              <e p="InputToEvent.cs" t="Include" />
+              <e p="InRoomChat.cs" t="Include" />
+              <e p="ManualPhotonViewAllocator.cs" t="Include" />
+              <e p="MoveByKeys.cs" t="Include" />
+              <e p="NetworkCullingHandler.cs" t="Include" />
+              <e p="OnClickDestroy.cs" t="Include" />
+              <e p="OnClickInstantiate.cs" t="Include" />
+              <e p="OnJoinedInstantiate.cs" t="Include" />
+              <e p="OnStartDelete.cs" t="Include" />
+              <e p="PhotonPlayer" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="PlayerRoomIndexingInspector.cs" t="Include" />
+                  <e p="PunTeamsInspector.cs" t="Include" />
+                </e>
+                <e p="PlayerRoomIndexing.cs" t="Include" />
+              </e>
+              <e p="PickupItem.cs" t="Include" />
+              <e p="PickupItemSimple.cs" t="Include" />
+              <e p="PickupItemSyncer.cs" t="Include" />
+              <e p="PointedAtGameObjectInfo.cs" t="Include" />
+              <e p="PunPlayerScores.cs" t="Include" />
+              <e p="PunTeams.cs" t="Include" />
+              <e p="PunTurnManager.cs" t="Include" />
+              <e p="QuitOnEscapeOrBack.cs" t="Include" />
+              <e p="ShowStatusWhenConnecting.cs" t="Include" />
+              <e p="SmoothSyncMovement.cs" t="Include" />
+              <e p="SupportLogger.cs" t="Include" />
+              <e p="TimeKeeper.cs" t="Include" />
+              <e p="UI" t="Include">
+                <e p="ButtonInsideScrollList.cs" t="Include" />
+                <e p="TextButtonTransition.cs" t="Include" />
+                <e p="TextToggleIsOnTransition.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="PhotonChatApi" t="Include">
+            <e p="ChatChannel.cs" t="Include" />
+            <e p="ChatClient.cs" t="Include" />
+            <e p="ChatDisconnectCause.cs" t="Include" />
+            <e p="ChatEventCode.cs" t="Include" />
+            <e p="ChatOperationCode.cs" t="Include" />
+            <e p="ChatParameterCode.cs" t="Include" />
+            <e p="ChatPeer.cs" t="Include" />
+            <e p="ChatState.cs" t="Include" />
+            <e p="ChatUserStatus.cs" t="Include" />
+            <e p="IChatClientListener.cs" t="Include" />
+          </e>
+          <e p="PUNVoice" t="Include">
+            <e p="changelog.txt" t="Include" />
+            <e p="DemoVoice" t="Include">
+              <e p="Audio" t="Include">
+                <e p="Pop-J_Fairba-8421_hifi.mp3.txt" t="Include" />
+                <e p="Reminder-public_d-291_hifi.mp3.txt" t="Include" />
+              </e>
+              <e p="Editor" t="Include">
+                <e p="CrossPlatformInput" t="Include">
+                  <e p="CrossPlatformInputInitialize.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Fonts" t="Include">
+                <e p="Orbitron Black.txt" t="Include" />
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="BaseController.cs" t="Include" />
+                <e p="BetterToggle.cs" t="Include" />
+                <e p="ChangePOV.cs" t="Include" />
+                <e p="CharacterInstantiation.cs" t="Include" />
+                <e p="FirstPersonController.cs" t="Include" />
+                <e p="Highlighter.cs" t="Include" />
+                <e p="MouseLookHelper.cs" t="Include" />
+                <e p="OrthographicController.cs" t="Include" />
+                <e p="PushToTalkPrivateButton.cs" t="Include" />
+                <e p="PushToTalkScript.cs" t="Include" />
+                <e p="SoundsForJoinAndLeave.cs" t="Include" />
+                <e p="ThirdPersonController.cs" t="Include" />
+                <e p="VoiceDemoUI.cs" t="Include" />
+              </e>
+              <e p="Standard Assets" t="Include">
+                <e p="CrossPlatformInput" t="Include">
+                  <e p="CrossPlatformInputGuidelines.txt" t="Include" />
+                  <e p="Scripts" t="Include">
+                    <e p="AxisTouchButton.cs" t="Include" />
+                    <e p="CrossPlatformInputManager.cs" t="Include" />
+                    <e p="InputAxisScrollbar.cs" t="Include" />
+                    <e p="Joystick.cs" t="Include" />
+                    <e p="MobileControlRig.cs" t="Include" />
+                    <e p="PlatformSpecific" t="Include">
+                      <e p="MobileInput.cs" t="Include" />
+                      <e p="StandaloneInput.cs" t="Include" />
+                    </e>
+                    <e p="TouchPad.cs" t="Include" />
+                    <e p="VirtualInput.cs" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="Textures" t="Include">
+                <e p="SkyBox-Texture.txt" t="Include" />
+              </e>
+            </e>
+            <e p="Editor" t="Include">
+              <e p="PhotonVoiceRecorderInspector.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="PhotonVoiceHandler.cs" t="Include" />
+              <e p="PhotonVoiceNetwork.cs" t="Include" />
+              <e p="PhotonVoiceRecorder.cs" t="Include" />
+              <e p="PhotonVoiceSettings.cs" t="Include" />
+              <e p="PhotonVoiceSpeaker.cs" t="Include" />
+            </e>
+            <e p="TestVoice" t="Include">
+              <e p="DelayProcessor.cs" t="Include" />
+              <e p="Gui.cs" t="Include" />
+              <e p="HighlightRecorder.cs" t="Include" />
+              <e p="HighlightSpeaker.cs" t="Include" />
+              <e p="ToneAudioReader.cs" t="Include" />
+              <e p="ViewDrag.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="libspeexdsp.bundle" t="Include">
+            <e p="build.txt" t="Include" />
+          </e>
+          <e p="Photon3Unity3D.xml" t="Include" />
+          <e p="PhotonLoadbalancingApi" t="Include">
+            <e p="Extensions.cs" t="Include" />
+            <e p="FriendInfo.cs" t="Include" />
+            <e p="LoadBalancingClient.cs" t="Include" />
+            <e p="LoadbalancingPeer.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="Room.cs" t="Include" />
+            <e p="RoomInfo.cs" t="Include" />
+            <e p="WebRpc.cs" t="Include" />
+          </e>
+          <e p="PhotonVoiceApi" t="Include">
+            <e p="Core" t="Include">
+              <e p="AudioUtil.cs" t="Include" />
+              <e p="ObjectPool.cs" t="Include" />
+              <e p="OpusCodec.cs" t="Include" />
+              <e p="POpusCodec" t="Include">
+                <e p="Enums" t="Include">
+                  <e p="Bandwidth.cs" t="Include" />
+                  <e p="Channels.cs" t="Include" />
+                  <e p="Complexity.cs" t="Include" />
+                  <e p="Delay.cs" t="Include" />
+                  <e p="ForceChannels.cs" t="Include" />
+                  <e p="OpusApplicationType.cs" t="Include" />
+                  <e p="OpusCtlGetRequest.cs" t="Include" />
+                  <e p="OpusCtlSetRequest.cs" t="Include" />
+                  <e p="OpusStatusCode.cs" t="Include" />
+                  <e p="SamplingRate.cs" t="Include" />
+                  <e p="SignalHint.cs" t="Include" />
+                </e>
+                <e p="OpusDecoder.cs" t="Include" />
+                <e p="OpusEncoder.cs" t="Include" />
+                <e p="OpusException.cs" t="Include" />
+                <e p="OpusWrapper.cs" t="Include" />
+              </e>
+              <e p="SpeexProcessor.cs" t="Include" />
+              <e p="Voice.cs" t="Include" />
+              <e p="VoiceAudio.cs" t="Include" />
+              <e p="VoiceClient.cs" t="Include" />
+              <e p="VoiceCodec.cs" t="Include" />
+              <e p="VoiceFramed.cs" t="Include" />
+              <e p="VoiceInfo.cs" t="Include" />
+              <e p="VoiceSourceAdapter.cs" t="Include" />
+            </e>
+            <e p="LoadBalancingFrontend.cs" t="Include" />
+            <e p="Platforms" t="Include">
+              <e p="unity" t="Include">
+                <e p="AndroidAudioInAEC.cs" t="Include" />
+                <e p="AppleAudioInPusher.cs" t="Include" />
+                <e p="AppleAudioInReader.cs" t="Include" />
+                <e p="AudioClipWrapper.cs" t="Include" />
+                <e p="AudioInEnumerator.cs" t="Include" />
+                <e p="AudioOutCapture.cs" t="Include" />
+                <e p="AudioStreamPlayer.cs" t="Include" />
+                <e p="IOSAudioForceToSpeaker.cs" t="Include" />
+                <e p="MicWrapper.cs" t="Include" />
+                <e p="PS4AudioOut.cs" t="Include" />
+                <e p="SpeexDSP.cs" t="Include" />
+                <e p="WindowsAudioIn.cs" t="Include" />
+              </e>
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="release_history.txt" t="Include" />
+          <e p="WebSocket" t="Include">
+            <e p="WebSocket.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="VoiceDemo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="PhotonVoiceExample.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_PhotonVoiceExample.-290391590.00" t="ExcludeRecursive" />
+  </component>
+</project>
